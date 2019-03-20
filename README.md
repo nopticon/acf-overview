@@ -4,9 +4,11 @@
   ACF Overview allows to quick view the configuration of all field groups.
 </div>
 
+
 ## ACF Overview
 
 ![](https://raw.githubusercontent.com/nopticon/acf-overview/master/doc/acf-overview.jpg)
+
 
 ## Description
 
@@ -17,6 +19,7 @@ In `Options` column will include field properties that is not empty.
 If a field is created but is not found, `type` column will be marked in red.
 
 This plugin requires **ACF version 5** or above to work properly.
+
 
 ## Compatibility
 
@@ -47,7 +50,7 @@ We will add you to the list if you contribute.
 
 This project is maintained by [Psychopsia](https://twitter.com/psychopsia/)
 
-s
+
 ## License
 
 ACF Overview released under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) license.
