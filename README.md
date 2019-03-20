@@ -4,13 +4,10 @@
   ACF Overview allows to quick view the configuration of all field groups.
 </div>
 
-
-## ACF Overview
-
-![](https://raw.githubusercontent.com/nopticon/acf-overview/master/doc/acf-overview.jpg)
+<img src="https://raw.githubusercontent.com/nopticon/acf-overview/master/doc/acf-overview.jpg" alt="total download">
 
 
-## Description
+## Description
 
 You can see a overview of all field groups with the configuration of each field.
 
@@ -27,16 +24,16 @@ WordPress: Tested up to 5.1.1
 
 This ACF field type is compatible with:
 
--   ACF 5.x
+- ACF 5.x
 
 
-## Installation
+## Installation
 
-1.  Copy the `acf-overview` folder into your `wp-content/plugins` folder
+- Copy the `acf-overview` folder into your `wp-content/plugins` folder
 
-2.  Activate the `ACF Overview` plugin via the plugins admin page
+- Activate the `ACF Overview` plugin via the plugins admin page
 
-3.  In wp-admin, go to Custom Fields > Overview
+- In wp-admin, go to Custom Fields > Overview
 
 
 ## Contribution
