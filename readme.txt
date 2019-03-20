@@ -1,6 +1,6 @@
 === ACF Overview ===
 Contributors: psychopsia
-Tags: acf, overview, fields, custom
+Tags: acf, overview, advanced, custom, fields
 Requires at least: 4.5
 Tested up to: 5.1.1
 Stable tag: 1.0.0
@@ -17,6 +17,14 @@ In `Options` column will include field properties that is not empty.
 If a field is created but is not found, `type` column will be marked in red.
 
 This plugin requires ACF version 5 or above to work properly.
+
+Repository:
+
+https://github.com/nopticon/acf-overview/
+
+Preview:
+
+https://raw.githubusercontent.com/nopticon/acf-overview/master/doc/acf-overview.jpg
 
 = Compatibility =
 
