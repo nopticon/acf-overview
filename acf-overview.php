@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name:     ACF Overview
- * Plugin URI:      https://nopticon.com
+ * Plugin URI:      https://github.com/nopticon/acf-overview
  * Description:     ACF Overview allows to quick view the configuration of all field groups
  * Author:          Guillermo Azurdia
- * Author URI:      https://nopticon.com
+ * Author URI:      https://github.com/nopticon
  * Text Domain:     acf-overview
  * Domain Path:     /lang
  * Version:         1.0.0
