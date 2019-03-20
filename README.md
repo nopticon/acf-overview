@@ -3,8 +3,8 @@
 <div align="center">
   ACF Overview allows to quick view the configuration of all field groups.
 </div>
-
-<img src="https://raw.githubusercontent.com/nopticon/acf-overview/master/doc/acf-overview.jpg" alt="total download">
+<br />
+<img src="https://raw.githubusercontent.com/nopticon/acf-overview/master/doc/acf-overview.jpg" alt="" />
 
 
 ## Description
